@@ -1,0 +1,113 @@
+{
+  "_description": "GA4 weekly snapshots. One entry per week for trend analysis.",
+  "snapshots": [
+    {
+      "_updated": "2026-09-21T16:15:25.210Z",
+      "date": "2026-09-21",
+      "period": "last_7_days",
+      "sessions": 515,
+      "users": 331,
+      "pageviews": 11606,
+      "conversions": 1408
+    },
+    {
+      "_updated": "2026-09-21T16:15:26.117Z",
+      "date": "2026-09-21",
+      "period": "last_30_days",
+      "sessions": 1853,
+      "users": 1178,
+      "pageviews": 39545,
+      "conversions": 5304
+    },
+    {
+      "_updated": "2026-09-21T16:15:27.103Z",
+      "date": "2026-09-21",
+      "period": "last_90_days",
+      "sessions": 5539,
+      "users": 3579,
+      "pageviews": 120534,
+      "conversions": 16128
+    },
+    {
+      "_updated": "2026-09-21T19:10:26.547Z",
+      "date": "2026-09-21",
+      "period": "last_7_days",
+      "sessions": 524,
+      "users": 336,
+      "pageviews": 11732,
+      "conversions": 1426
+    },
+    {
+      "_updated": "2026-09-21T19:10:27.664Z",
+      "date": "2026-09-21",
+      "period": "last_30_days",
+      "sessions": 1862,
+      "users": 1183,
+      "pageviews": 39671,
+      "conversions": 5322
+    },
+    {
+      "_updated": "2026-09-21T19:10:28.642Z",
+      "date": "2026-09-21",
+      "period": "last_90_days",
+      "sessions": 5548,
+      "users": 3584,
+      "pageviews": 120660,
+      "conversions": 16146
+    },
+    {
+      "_updated": "2026-09-22T16:15:26.918Z",
+      "date": "2026-09-22",
+      "period": "last_7_days",
+      "sessions": 494,
+      "users": 326,
+      "pageviews": 10947,
+      "conversions": 1370
+    },
+    {
+      "_updated": "2026-09-22T16:15:27.753Z",
+      "date": "2026-09-22",
+      "period": "last_30_days",
+      "sessions": 1870,
+      "users": 1193,
+      "pageviews": 39798,
+      "conversions": 5332
+    },
+    {
+      "_updated": "2026-09-22T16:15:28.659Z",
+      "date": "2026-09-22",
+      "period": "last_90_days",
+      "sessions": 5545,
+      "users": 3591,
+      "pageviews": 120309,
+      "conversions": 16123
+    },
+    {
+      "_updated": "2026-09-22T19:10:26.696Z",
+      "date": "2026-09-22",
+      "period": "last_7_days",
+      "sessions": 508,
+      "users": 336,
+      "pageviews": 11217,
+      "conversions": 1413
+    },
+    {
+      "_updated": "2026-09-22T19:10:27.542Z",
+      "date": "2026-09-22",
+      "period": "last_30_days",
+      "sessions": 1884,
+      "users": 1203,
+      "pageviews": 40068,
+      "conversions": 5375
+    },
+    {
+      "_updated": "2026-09-22T19:10:28.684Z",
+      "date": "2026-09-22",
+      "period": "last_90_days",
+      "sessions": 5559,
+      "users": 3601,
+      "pageviews": 120579,
+      "conversions": 16166
+    }
+  ]
+}

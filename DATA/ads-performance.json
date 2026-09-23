@@ -1,0 +1,12 @@
+{
+  "_description": "DoctorNow Apps - Google Ads app campaign performance",
+  "snapshots": [
+    {
+      "_updated": "2026-06-29T17:00:00Z",
+      "date": "2026-06-28",
+      "platform": "google-ads",
+      "appCampaigns": true,
+      "note": "App install campaigns tracked under DoctorNow CID 4147315258"
+    }
+  ]
+}

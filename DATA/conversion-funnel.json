@@ -1,0 +1,341 @@
+{
+  "_description": "Conversion funnel summary by platform.",
+  "snapshots": [
+    {
+      "_updated": "2026-09-21T16:15:31.812Z",
+      "period": "last_7_days",
+      "platform": "all",
+      "stages": [
+        {
+          "label": "GA4 Sessions",
+          "count": 416,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "GA4 session_start events"
+        },
+        {
+          "label": "WhatsApp Clicks",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 100,
+          "note": ""
+        },
+        {
+          "label": "Completed Bookings",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "⚠️ NOT TRACKED — this is the gap"
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-21T16:15:33.175Z",
+      "period": "last_30_days",
+      "platform": "all",
+      "stages": [
+        {
+          "label": "GA4 Sessions",
+          "count": 1783,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "GA4 session_start events"
+        },
+        {
+          "label": "WhatsApp Clicks",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 100,
+          "note": ""
+        },
+        {
+          "label": "Completed Bookings",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "⚠️ NOT TRACKED — this is the gap"
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-21T16:15:34.677Z",
+      "period": "last_90_days",
+      "platform": "all",
+      "stages": [
+        {
+          "label": "GA4 Sessions",
+          "count": 5409,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "GA4 session_start events"
+        },
+        {
+          "label": "WhatsApp Clicks",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 100,
+          "note": ""
+        },
+        {
+          "label": "Completed Bookings",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "⚠️ NOT TRACKED — this is the gap"
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-21T19:10:33.504Z",
+      "period": "last_7_days",
+      "platform": "all",
+      "stages": [
+        {
+          "label": "GA4 Sessions",
+          "count": 425,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "GA4 session_start events"
+        },
+        {
+          "label": "WhatsApp Clicks",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 100,
+          "note": ""
+        },
+        {
+          "label": "Completed Bookings",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "⚠️ NOT TRACKED — this is the gap"
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-21T19:10:34.903Z",
+      "period": "last_30_days",
+      "platform": "all",
+      "stages": [
+        {
+          "label": "GA4 Sessions",
+          "count": 1792,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "GA4 session_start events"
+        },
+        {
+          "label": "WhatsApp Clicks",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 100,
+          "note": ""
+        },
+        {
+          "label": "Completed Bookings",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "⚠️ NOT TRACKED — this is the gap"
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-21T19:10:36.465Z",
+      "period": "last_90_days",
+      "platform": "all",
+      "stages": [
+        {
+          "label": "GA4 Sessions",
+          "count": 5418,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "GA4 session_start events"
+        },
+        {
+          "label": "WhatsApp Clicks",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 100,
+          "note": ""
+        },
+        {
+          "label": "Completed Bookings",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "⚠️ NOT TRACKED — this is the gap"
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-22T16:15:33.705Z",
+      "period": "last_7_days",
+      "platform": "all",
+      "stages": [
+        {
+          "label": "GA4 Sessions",
+          "count": 411,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "GA4 session_start events"
+        },
+        {
+          "label": "WhatsApp Clicks",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 100,
+          "note": ""
+        },
+        {
+          "label": "Completed Bookings",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "⚠️ NOT TRACKED — this is the gap"
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-22T16:15:35.732Z",
+      "period": "last_30_days",
+      "platform": "all",
+      "stages": [
+        {
+          "label": "GA4 Sessions",
+          "count": 1825,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "GA4 session_start events"
+        },
+        {
+          "label": "WhatsApp Clicks",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 100,
+          "note": ""
+        },
+        {
+          "label": "Completed Bookings",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "⚠️ NOT TRACKED — this is the gap"
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-22T16:15:37.622Z",
+      "period": "last_90_days",
+      "platform": "all",
+      "stages": [
+        {
+          "label": "GA4 Sessions",
+          "count": 5411,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "GA4 session_start events"
+        },
+        {
+          "label": "WhatsApp Clicks",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 100,
+          "note": ""
+        },
+        {
+          "label": "Completed Bookings",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "⚠️ NOT TRACKED — this is the gap"
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-22T19:10:33.605Z",
+      "period": "last_7_days",
+      "platform": "all",
+      "stages": [
+        {
+          "label": "GA4 Sessions",
+          "count": 425,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "GA4 session_start events"
+        },
+        {
+          "label": "WhatsApp Clicks",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 100,
+          "note": ""
+        },
+        {
+          "label": "Completed Bookings",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "⚠️ NOT TRACKED — this is the gap"
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-22T19:10:35.385Z",
+      "period": "last_30_days",
+      "platform": "all",
+      "stages": [
+        {
+          "label": "GA4 Sessions",
+          "count": 1839,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "GA4 session_start events"
+        },
+        {
+          "label": "WhatsApp Clicks",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 100,
+          "note": ""
+        },
+        {
+          "label": "Completed Bookings",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "⚠️ NOT TRACKED — this is the gap"
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-22T19:10:37.437Z",
+      "period": "last_90_days",
+      "platform": "all",
+      "stages": [
+        {
+          "label": "GA4 Sessions",
+          "count": 5425,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "GA4 session_start events"
+        },
+        {
+          "label": "WhatsApp Clicks",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 100,
+          "note": ""
+        },
+        {
+          "label": "Completed Bookings",
+          "count": 0,
+          "cost": 0,
+          "drop_off_pct": 0,
+          "note": "⚠️ NOT TRACKED — this is the gap"
+        }
+      ]
+    }
+  ]
+}
