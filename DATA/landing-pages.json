@@ -2,160 +2,88 @@
   "_description": "Landing page performance for dashboard. Updated by GA4 agent.",
   "snapshots": [
     {
-      "_updated": "2026-09-21T16:15:31.395Z",
+      "_updated": "2026-09-24T16:15:35.519Z",
       "period": "last_7_days",
       "pages": [
         {
           "url": "",
           "path": "(not set)",
           "label": "(not set)",
-          "sessions": 358,
-          "users": 173,
-          "conversions": 963,
+          "sessions": 376,
+          "users": 169,
+          "conversions": 1142,
           "conv_value": 0
         },
         {
           "url": "",
           "path": "",
           "label": "Unknown",
-          "sessions": 58,
+          "sessions": 59,
           "users": 34,
-          "conversions": 179,
+          "conversions": 192,
           "conv_value": 0
         }
       ]
     },
     {
-      "_updated": "2026-09-21T16:15:32.690Z",
+      "_updated": "2026-09-24T16:15:36.909Z",
       "period": "last_30_days",
       "pages": [
         {
           "url": "",
           "path": "(not set)",
           "label": "(not set)",
-          "sessions": 1733,
-          "users": 545,
-          "conversions": 4925,
+          "sessions": 1777,
+          "users": 548,
+          "conversions": 5148,
           "conv_value": 0
         },
         {
           "url": "",
           "path": "",
           "label": "Unknown",
-          "sessions": 58,
+          "sessions": 59,
           "users": 34,
-          "conversions": 179,
+          "conversions": 192,
           "conv_value": 0
         }
       ]
     },
     {
-      "_updated": "2026-09-21T16:15:33.953Z",
+      "_updated": "2026-09-24T16:15:39.743Z",
       "period": "last_90_days",
       "pages": [
         {
           "url": "",
           "path": "(not set)",
           "label": "(not set)",
-          "sessions": 5410,
-          "users": 1326,
-          "conversions": 15716,
+          "sessions": 5439,
+          "users": 1338,
+          "conversions": 15959,
           "conv_value": 0
         },
         {
           "url": "",
           "path": "",
           "label": "Unknown",
-          "sessions": 58,
+          "sessions": 59,
           "users": 34,
-          "conversions": 179,
+          "conversions": 192,
           "conv_value": 0
         }
       ]
     },
     {
-      "_updated": "2026-09-21T19:10:32.951Z",
+      "_updated": "2026-09-24T19:10:48.067Z",
       "period": "last_7_days",
       "pages": [
         {
           "url": "",
           "path": "(not set)",
           "label": "(not set)",
-          "sessions": 358,
-          "users": 173,
-          "conversions": 963,
-          "conv_value": 0
-        },
-        {
-          "url": "",
-          "path": "",
-          "label": "Unknown",
-          "sessions": 67,
-          "users": 39,
-          "conversions": 197,
-          "conv_value": 0
-        }
-      ]
-    },
-    {
-      "_updated": "2026-09-21T19:10:34.410Z",
-      "period": "last_30_days",
-      "pages": [
-        {
-          "url": "",
-          "path": "(not set)",
-          "label": "(not set)",
-          "sessions": 1733,
-          "users": 545,
-          "conversions": 4925,
-          "conv_value": 0
-        },
-        {
-          "url": "",
-          "path": "",
-          "label": "Unknown",
-          "sessions": 67,
-          "users": 39,
-          "conversions": 197,
-          "conv_value": 0
-        }
-      ]
-    },
-    {
-      "_updated": "2026-09-21T19:10:35.913Z",
-      "period": "last_90_days",
-      "pages": [
-        {
-          "url": "",
-          "path": "(not set)",
-          "label": "(not set)",
-          "sessions": 5410,
-          "users": 1326,
-          "conversions": 15716,
-          "conv_value": 0
-        },
-        {
-          "url": "",
-          "path": "",
-          "label": "Unknown",
-          "sessions": 67,
-          "users": 39,
-          "conversions": 197,
-          "conv_value": 0
-        }
-      ]
-    },
-    {
-      "_updated": "2026-09-22T16:15:33.152Z",
-      "period": "last_7_days",
-      "pages": [
-        {
-          "url": "",
-          "path": "(not set)",
-          "label": "(not set)",
-          "sessions": 346,
-          "users": 168,
-          "conversions": 919,
+          "sessions": 376,
+          "users": 169,
+          "conversions": 1142,
           "conv_value": 0
         },
         {
@@ -163,23 +91,23 @@
           "path": "",
           "label": "Unknown",
           "sessions": 65,
-          "users": 42,
-          "conversions": 203,
+          "users": 38,
+          "conversions": 204,
           "conv_value": 0
         }
       ]
     },
     {
-      "_updated": "2026-09-22T16:15:34.371Z",
+      "_updated": "2026-09-24T19:10:49.499Z",
       "period": "last_30_days",
       "pages": [
         {
           "url": "",
           "path": "(not set)",
           "label": "(not set)",
-          "sessions": 1768,
-          "users": 550,
-          "conversions": 5050,
+          "sessions": 1777,
+          "users": 548,
+          "conversions": 5148,
           "conv_value": 0
         },
         {
@@ -187,23 +115,23 @@
           "path": "",
           "label": "Unknown",
           "sessions": 65,
-          "users": 42,
-          "conversions": 203,
+          "users": 38,
+          "conversions": 204,
           "conv_value": 0
         }
       ]
     },
     {
-      "_updated": "2026-09-22T16:15:36.652Z",
+      "_updated": "2026-09-24T19:10:50.912Z",
       "period": "last_90_days",
       "pages": [
         {
           "url": "",
           "path": "(not set)",
           "label": "(not set)",
-          "sessions": 5409,
-          "users": 1319,
-          "conversions": 15712,
+          "sessions": 5439,
+          "users": 1338,
+          "conversions": 15959,
           "conv_value": 0
         },
         {
@@ -211,80 +139,152 @@
           "path": "",
           "label": "Unknown",
           "sessions": 65,
-          "users": 42,
-          "conversions": 203,
+          "users": 38,
+          "conversions": 204,
           "conv_value": 0
         }
       ]
     },
     {
-      "_updated": "2026-09-22T19:10:33.104Z",
+      "_updated": "2026-09-25T16:15:34.913Z",
       "period": "last_7_days",
       "pages": [
         {
           "url": "",
           "path": "(not set)",
           "label": "(not set)",
-          "sessions": 346,
-          "users": 168,
-          "conversions": 919,
+          "sessions": 409,
+          "users": 182,
+          "conversions": 1276,
           "conv_value": 0
         },
         {
           "url": "",
           "path": "",
           "label": "Unknown",
-          "sessions": 79,
-          "users": 52,
-          "conversions": 246,
+          "sessions": 28,
+          "users": 23,
+          "conversions": 85,
           "conv_value": 0
         }
       ]
     },
     {
-      "_updated": "2026-09-22T19:10:34.527Z",
+      "_updated": "2026-09-25T16:15:36.800Z",
       "period": "last_30_days",
       "pages": [
         {
           "url": "",
           "path": "(not set)",
           "label": "(not set)",
-          "sessions": 1768,
-          "users": 550,
-          "conversions": 5050,
+          "sessions": 1811,
+          "users": 564,
+          "conversions": 5252,
           "conv_value": 0
         },
         {
           "url": "",
           "path": "",
           "label": "Unknown",
-          "sessions": 79,
-          "users": 52,
-          "conversions": 246,
+          "sessions": 28,
+          "users": 23,
+          "conversions": 85,
           "conv_value": 0
         }
       ]
     },
     {
-      "_updated": "2026-09-22T19:10:36.592Z",
+      "_updated": "2026-09-25T16:15:38.825Z",
       "period": "last_90_days",
       "pages": [
         {
           "url": "",
           "path": "(not set)",
           "label": "(not set)",
-          "sessions": 5409,
-          "users": 1319,
-          "conversions": 15712,
+          "sessions": 5492,
+          "users": 1341,
+          "conversions": 16044,
           "conv_value": 0
         },
         {
           "url": "",
           "path": "",
           "label": "Unknown",
-          "sessions": 79,
-          "users": 52,
-          "conversions": 246,
+          "sessions": 28,
+          "users": 23,
+          "conversions": 85,
+          "conv_value": 0
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-25T19:10:33.003Z",
+      "period": "last_7_days",
+      "pages": [
+        {
+          "url": "",
+          "path": "(not set)",
+          "label": "(not set)",
+          "sessions": 409,
+          "users": 182,
+          "conversions": 1276,
+          "conv_value": 0
+        },
+        {
+          "url": "",
+          "path": "",
+          "label": "Unknown",
+          "sessions": 32,
+          "users": 27,
+          "conversions": 93,
+          "conv_value": 0
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-25T19:10:34.538Z",
+      "period": "last_30_days",
+      "pages": [
+        {
+          "url": "",
+          "path": "(not set)",
+          "label": "(not set)",
+          "sessions": 1811,
+          "users": 564,
+          "conversions": 5252,
+          "conv_value": 0
+        },
+        {
+          "url": "",
+          "path": "",
+          "label": "Unknown",
+          "sessions": 32,
+          "users": 27,
+          "conversions": 93,
+          "conv_value": 0
+        }
+      ]
+    },
+    {
+      "_updated": "2026-09-25T19:10:36.023Z",
+      "period": "last_90_days",
+      "pages": [
+        {
+          "url": "",
+          "path": "(not set)",
+          "label": "(not set)",
+          "sessions": 5492,
+          "users": 1341,
+          "conversions": 16044,
+          "conv_value": 0
+        },
+        {
+          "url": "",
+          "path": "",
+          "label": "Unknown",
+          "sessions": 32,
+          "users": 27,
+          "conversions": 93,
           "conv_value": 0
         }
       ]
