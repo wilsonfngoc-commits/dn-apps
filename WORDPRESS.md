@@ -31,7 +31,7 @@
 
 **State now:** telemedicine EN+TC = original (no gtag, no FOUC, no overflow clip, no h-overflow, scrolls to bottom). Theme's native fade-in (opacity 0.5→1) remains — identical to prod app.doctornow.hk/telemedicine/ behavior (pre-existing since 2025). If Wilson still dislikes the fade, proper fix = disable aux page animation via theme option, NOT CSS-kill (breaks scroll unlock).
 
-**Backups:** `mu-plugins/backup-2026-08-22-revert/` (dna-ga4.php.orig, dna-overflow.php.orig). Evidence: `~/projects/dn-apps/verify-2026-08-22/` screenshots.
+**Backups:** `mu-plugins/backup-2026-08-22-revert/` (dna-ga4.php.orig, dna-overflow.php.orig). Evidence: `verify-2026-08-22/` (in this repo; moved from `~/projects/dn-apps` 2026-09-29 Wilson GO A).
 
 ## 4. Telemedicine entrance-animation fix — 2026-08-22 (prod follow-up task)
 
